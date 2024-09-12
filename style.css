@@ -1,0 +1,22 @@
+/* Estilos personalizados */
+body {
+    background-color: #f8f9fa; /* Cor de fundo leve */
+    font-family: Arial, sans-serif;
+  }
+
+  h1 {
+    color: #007bff; /* Cor azul para o título */
+  }
+  figure{
+    display: flex;
+    gap: 20px;
+   
+  }
+  figure img{
+    border-radius: 10px;
+  }
+  
+  footer {
+    background-color: #e9ecef;
+  }
+  
